@@ -1,5 +1,5 @@
 {
-  "name": "capacitor-share",
+  "name": "@capacitor/share",
   "version": "1.0.3",
   "description": "The Share API provides methods for sharing content in any sharing-enabled apps the user may have installed.",
   "main": "dist/plugin.cjs.js",
